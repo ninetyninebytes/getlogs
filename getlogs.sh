@@ -42,7 +42,7 @@ if [ `id -u` = 0 ] ; then
 fi
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo -e "\e[1;32mgetlogs 1.0.0\e[0m"
+echo -e "\e[1;32mgetlogs 1.0.1\e[0m"
 echo
 echo "a simple way to get journalctl logs from your system"
 echo "and export it as a .log or .txt file"
